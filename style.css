@@ -47,6 +47,10 @@ h6 {
 .content h3 {
   text-transform: capitalize;
 }
+code {
+  color: #e95400;
+  font-weight: bold;
+}
 .info {
   text-align: center;
   text-transform: uppercase;
